@@ -1,0 +1,17 @@
+.navbar{
+    height: 70px;
+    width: 100vw;
+    background-color: rgb(9, 129, 129);
+    justify-content: center;
+    display: flex;
+    
+}
+.link{
+    align-self: center;
+    height: 50px;
+    width: 100px;
+    background-color: aliceblue;
+    margin-right: 10px;
+    text-align: center;
+    
+}
